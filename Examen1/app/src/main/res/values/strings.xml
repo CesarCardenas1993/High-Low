@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Examen1</string>
-    <string name="action_settings">Settings</string>
-    <string-array name="Value">
-        <item>Usd</item>
-        <item>Mex</item>
-        <item>Eur</item>
-    </string-array>
-</resources>
